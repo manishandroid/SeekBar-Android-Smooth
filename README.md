@@ -1,4 +1,4 @@
-SeekBar-Android-Smooth
+# SeekBar-Android-Smooth
 ======================
 
 A smooth and much more customized Seekbar for android.
@@ -6,18 +6,18 @@ This SmoothSeekBar is similar to an enhanced SeekBar widget.
 
 Developers can customize the following attributes (both via XML and programmatically):
 
-Seekbar color
-Seekbar thickness
-Seekbar thumb trailing line thickness
-Seekbar thumb trailing line color
-Seekbar thumb normal image
-Seekbar thumb pressed image
+1. Seekbar color
+2. Seekbar thickness
+3. Seekbar thumb trailing line thickness
+4. Seekbar thumb trailing line color
+5. Seekbar thumb normal image
+6. Seekbar thumb pressed image
 
 Seekbar thumb image can be replaced with a circle whose properties can be specified as follows:
 
-Seekbar thumb radius
-Seekbar thumb normal color
-Seekbar thumb pressed color
+1. Seekbar thumb radius
+2. Seekbar thumb normal color
+3. Seekbar thumb pressed color
 
 Supported on API Level 14 and above.
 
